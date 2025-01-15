@@ -5,6 +5,8 @@ Built with the latest Next.js and TypeScript, this project replicates Zoom, a wi
 ## <a name="links">🔗 Links</a>
 Live Project (https://meet-x-seven.vercel.app/)
 
+## <a name="screenshots">📷 ScreenShots</a>
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
