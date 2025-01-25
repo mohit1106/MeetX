@@ -44,6 +44,29 @@ and many more, including code architecture and reusability.
 
 
 
+
+
+## <a name="screenshots">📷 ScreenShots</a>
+![Sign-Up page](https://github.com/mohit1106/MeetX/blob/dd36b1ed7524d495cfbc314cdeb738c21613b652/MeetX%20ScreenShots/Sign%20up.png)
+
+![Home page](https://github.com/mohit1106/MeetX/blob/671cfc65e845777773087508e991ca3a8f87b223/MeetX%20ScreenShots/Home.png)
+
+![Upcoming page](https://github.com/mohit1106/MeetX/blob/671cfc65e845777773087508e991ca3a8f87b223/MeetX%20ScreenShots/Upcoming.png)
+
+![Previous page](https://github.com/mohit1106/MeetX/blob/671cfc65e845777773087508e991ca3a8f87b223/MeetX%20ScreenShots/Previous.png)
+
+![Recording page](https://github.com/mohit1106/MeetX/blob/671cfc65e845777773087508e991ca3a8f87b223/MeetX%20ScreenShots/Recordings.png)
+
+![Personal page](https://github.com/mohit1106/MeetX/blob/671cfc65e845777773087508e991ca3a8f87b223/MeetX%20ScreenShots/Personal%20room.png)
+
+![Profile page](https://github.com/mohit1106/MeetX/blob/671cfc65e845777773087508e991ca3a8f87b223/MeetX%20ScreenShots/profile.png)
+
+![Security page](https://github.com/mohit1106/MeetX/blob/671cfc65e845777773087508e991ca3a8f87b223/MeetX%20ScreenShots/Security.png)
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -81,23 +104,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-
-
-## <a name="screenshots">📷 ScreenShots</a>
-![Sign-Up page](https://github.com/mohit1106/MeetX/blob/dd36b1ed7524d495cfbc314cdeb738c21613b652/MeetX%20ScreenShots/Sign%20up.png)
-
-![Home page](https://github.com/mohit1106/MeetX/blob/671cfc65e845777773087508e991ca3a8f87b223/MeetX%20ScreenShots/Home.png)
-
-![Upcoming page](https://github.com/mohit1106/MeetX/blob/671cfc65e845777773087508e991ca3a8f87b223/MeetX%20ScreenShots/Upcoming.png)
-
-![Previous page](https://github.com/mohit1106/MeetX/blob/671cfc65e845777773087508e991ca3a8f87b223/MeetX%20ScreenShots/Previous.png)
-
-![Recording page](https://github.com/mohit1106/MeetX/blob/671cfc65e845777773087508e991ca3a8f87b223/MeetX%20ScreenShots/Recordings.png)
-
-![Personal page](https://github.com/mohit1106/MeetX/blob/671cfc65e845777773087508e991ca3a8f87b223/MeetX%20ScreenShots/Personal%20room.png)
-
-![Profile page](https://github.com/mohit1106/MeetX/blob/671cfc65e845777773087508e991ca3a8f87b223/MeetX%20ScreenShots/profile.png)
-
-![Security page](https://github.com/mohit1106/MeetX/blob/671cfc65e845777773087508e991ca3a8f87b223/MeetX%20ScreenShots/Security.png)
-
-
