@@ -11,7 +11,7 @@ interface HomeCardProps {
   description: string;
   handleClick?: () => void;
 }
-
+// Homecard tsx
 const HomeCard = ({ className, img, title, description, handleClick }: HomeCardProps) => {
   return (
     <section
