@@ -13,6 +13,7 @@ Live Project: (https://meet-x-seven.vercel.app/)
 - getstream
 - shadcn
 - Tailwind CSS
+- React
   
 
 
