@@ -38,4 +38,3 @@ const EndCallButton = () => {
 };
 
 export default EndCallButton;
-
