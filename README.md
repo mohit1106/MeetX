@@ -16,7 +16,6 @@ Live Project: (https://meet-x-seven.vercel.app/)
 - React
   
 
-
 ## <a name="features">🔋 Features</a>
 
 
