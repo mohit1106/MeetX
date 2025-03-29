@@ -34,7 +34,6 @@ export const useGetCalls = () => {
         setIsLoading(false);
       }
     };
-
     loadCalls();
   }, [client, user?.id]);
 
