@@ -5,7 +5,6 @@ this project is built with the latest Next.js and TypeScript, this project repli
 ## <a name="links">🔗 Links</a>
 Live Project: (https://meet-x-seven.vercel.app/)
 
-
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 - Next.js
 - TypeScript
