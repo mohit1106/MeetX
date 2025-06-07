@@ -14,7 +14,6 @@ Live Project: (https://meet-x-seven.vercel.app/)
 - Tailwind CSS
 - React
 
-  
 
 ## <a name="features">🔋 Features</a>
 
